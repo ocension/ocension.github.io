@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocension.github.io/ocension.txt.gz
+Sitemap: https://ocension.github.io/app/ocension.txt.gz
+Sitemap: https://ocension.github.io/assets/ocension.txt.gz
+Sitemap: https://ocension.github.io/css/ocension.txt.gz
+Sitemap: https://ocension.github.io/includes/ocension.txt.gz
+Sitemap: https://ocension.github.io/item/ocension.txt.gz
+Sitemap: https://ocension.github.io/src/ocension.txt.gz
